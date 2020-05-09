@@ -1,0 +1,80 @@
+/*
+#0D47A1 - blue
+
+blue gradient colors:
+#D0F9FA - dark
+#9CF3F9
+#6CE2EF
+#0A97CF
+#045DAF
+#063677
+#042B6C - light
+
+
+#DB1C1E - red
+*/
+
+body {
+	padding: 2.5em;
+}
+
+h1, h2, h3, h4, p, figcaption {
+	font-family: Arial, sans-serif;
+	text-align: justify;
+}
+
+h1 {
+	color: #DB1C1E;
+	text-align: center;
+	font-size: 3em;
+	padding: 0em;
+	margin: 0em;
+}
+
+h2 {
+	color: #DB1C1E;
+	font-size: 2.5em;
+	padding: 0.25em 0em 0em 0em;
+	margin: 0em;
+}
+
+h3 {
+	color: #0D47A1;
+	font-size: 2em;
+	padding: 0.25em 0em 0em 0em;
+	margin: 0em;
+}
+
+h4 {
+	font-size: 1.5em;
+	padding: 0.25em 0em 0em 0em;
+	margin: 0em;
+}
+
+#names, figcaption {
+	text-align: center;
+}
+
+p {
+	font-size: 1.25em;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 75%;
+}
+
+a {
+	color: #DB1C1E;
+}
+
+a:hover, a:focus {
+	color: #0D47A1;
+}
+
+a:focus {
+	outline: 2px solid #DB1C1E;
+	padding: 0.25em;
+}
